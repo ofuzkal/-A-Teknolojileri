@@ -31,6 +31,17 @@
 - **İlk cep bilgisayarları:** CASIO ve APPLE tarafından üretilmiştir; Apple Newton bu alandaki ilk örneklerden biridir.
 - **Google:** 1998 yılında Larry Page ve Sergey Brin tarafından kurulmuştur.
 
+## Tarihi süreç
+
+Ağ teknolojileri, bilgisayarların ve iletişim cihazlarının kablo veya radyo dalgaları gibi veri iletim ortamlarını kullanarak birbiriyle bağlantı kurduğu sistemleri ifade eder. Bu yapı, kullanıcıların farklı kaynakları paylaşmalarını sağlar. 1946 yılında ortaya çıkan ENIAC, ilk bilgisayar olarak bilinirken, 1958 yılında üretilen ilk tümleşik devre, günümüz teknolojisinin temelini atmıştır. 1960 yılında IBM tarafından geliştirilen ana bilgisayarlar, büyük veri işleme yeteneği ile dikkat çekmiştir.
+
+ARPANET, ABD hükümeti tarafından finanse edilen bir proje olarak, 1970'lerin başında binlerce kilometre uzaktaki bilgisayarlarla yerel mekan bilgisayarlarını birleştiren geniş bir iletişim ağı oluşturmuştur. Bu, bugünkü İnternet'in temellerini atmıştır. ARPA'nın desteklediği araştırmalar sonucunda TCP/IP (Transmission Control Protocol/Internet Protocol) protokolü geliştirilmiş ve bu protokol, farklı ağlar arasında uyum sağlanmasını mümkün kılmıştır. 1983 yılında İnternet, deneysel olmaktan çıkarak sivillerin kullanımına açılmıştır.
+
+1980'lerin başında, Uluslararası Standartlar Organizasyonu (ISO) tarafından oluşturulan Açık Sistemler Bağlantı modeli (OSI), iletişim protokollerinin standartlaşmasına katkıda bulunmuştur. Bu gelişmeler, bilgisayar ağlarının yaygınlaşmasını ve iletişimin global ölçekte gerçekleşmesini sağlamıştır.
+
+Günümüzde ağ teknolojileri, bireyler ve kurumlar için vazgeçilmez hale gelmiş, iletişim biçimimizi ve bilgi paylaşımını köklü bir şekilde değiştirmiştir.
+
+
 ## Sonuç
 
 Ağ tarihçesi, teknolojinin gelişimi ile birlikte sürekli evrim geçirmiştir. İlk bilgisayarlardan günümüzdeki internet ve ağ sistemlerine kadar birçok yenilik, iletişim ve bilgi paylaşımını daha etkili hale getirmiştir. Bu süreç, bilgisayar ağlarının ve internetin günlük yaşam ve iş dünyasındaki önemini artırmıştır.
