@@ -1,10 +1,23 @@
 # Ağ Tarihçesi
 
 - **İlk bilgisayar:** 1946 yılında ENIAC olarak ortaya çıkmıştır. (ENIAC, Enigma şifrelemesini kırmak için geliştirilmiştir.)
+
+  ![image](https://github.com/user-attachments/assets/f2571a7c-720a-474d-a77f-3f00b10cda75)
+  
 - **İlk tümleşik devre:** 1958 yılında üretilmiştir.
+
+  ![image](https://github.com/user-attachments/assets/eaf0cb85-3724-43d3-a9fd-d925f8517a20)
+
 - **Moore Kanunu:** Tümleşik devreler üzerinde transistör sayısının her iki yılda iki katına çıkacağını öngörmektedir. Günümüzde bu sayı 40 milyara ulaşmıştır.
+
+  ![image](https://github.com/user-attachments/assets/bf169220-a284-4991-aa1c-42cac6537466)
+
 - **Ana Bilgisayarlar (Mainframe):** 1960 yılında IBM tarafından geliştirilmiştir.
-- **ARPANET:** Yeni adıyla DARPA, ilk zamanlarda telefon ağlarıyla birbirine bağlanmış ve sonrasında internetin varlığıyla sürdürülmüştür.
+
+![image](https://github.com/user-attachments/assets/0f4196a8-7534-4566-a44f-e54e3e9dabe6)
+
+
+
 
 ## Önemli Gelişmeler
 
